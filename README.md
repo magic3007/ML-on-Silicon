@@ -11,14 +11,17 @@
 Papers of significance are marked in **bold**. My comments are marked in *italic*.
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Neuromorphic Hardware
-
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ISA
 
-  
+
+### 2020 Preprints
+
+- An Instruction Set Architecture for Machine Learning(CAS, China, Yunji Chen)
+  - Citing: TABLA
 
 ### 2019 ASPLOS
 
-- ![#f03c15](./README.assets/000000-1586508020274.png)PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference
+- ![#f03c15](./README.assets/000000-1586508020274.png) PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference
   
   - Citing: TABLA
 - ![#f03c15](./README.assets/000000-1586508058898.png) FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture(Yu Ji, Youhui Zhang, Yuan Xie, Tsinghua University, UCSB)
@@ -37,6 +40,12 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 - FlexiGAN: An End-to-End Solution for FPGA Acceleration of Generative Adversarial Networks(ACT lab)
   - Citing: TABLA
+
+### 2018 ISCA
+
+- Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network(ACT lab)
+
+  
 
 ### 2017 MICRO
 
@@ -58,3 +67,15 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
    -  Citing: PRIME, TABLA, ISAAC
 
    
+
+## Important Issues
+
+This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+
+### Tutorial & Survey
+
+- [CSE 240D: Accelerator Design for Deep Learning (Winter 2019)](https://hadiclass.github.io/cse240d-wi19/schedule.html) (UCSD)
+
+### Lab & Prof.
+
+- [Hadi Esmaeilzadeh](http://cseweb.ucsd.edu/~hadi/). ACT Lab, Georgia Institute of Technology, UCSD
