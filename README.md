@@ -1,6 +1,6 @@
 # ML on Silicon
 
-👤 A collection of works on neural networks and neural accelerators.
+🐱‍👤 A collection of works on neural networks and neural accelerators.
 
 ## Table of Contents
 
