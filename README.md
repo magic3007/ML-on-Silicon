@@ -62,6 +62,8 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 - TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning(ACT lab)
 
+  - source code: https://bitbucket.org/act-lab/tabla/
+
 -  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning
 
    -  Citing: PRIME, TABLA, ISAAC
