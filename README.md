@@ -57,6 +57,7 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 - ![#c5f015](./README.assets/000000-1586508246163.png) From High-Level Deep Neural Models to FPGAs, DNNWeaver(ACT lab)
   - Citing: TABLA
+- ![#f03c15](README.assets/000000-1586511629806.png) NEUTRAMS: Neural network transformation and co-design under neuromorphic hardware constraints(Yu Ji, Youhui Zhang, Yuan Xie, Tsinghua University, UCSB)
 
 ### 2016 HPCA
 
