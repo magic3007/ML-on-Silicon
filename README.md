@@ -8,16 +8,24 @@
 
 ## Conference Papers
 
-Papers of significance are marked in **bold**. My comments are marked in *italic*.
+Papers of significance are marked in **bold**. My comments are marked in *italic*. Papers of other fields may also included, and we use the following tags to categorize different fields.
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Neuromorphic Hardware
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ISA
-
+- <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" /> Compiler
+- <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Distributed Machine Learning
 
 ### 2020 Preprints
 
-- An Instruction Set Architecture for Machine Learning(CAS, China, Yunji Chen)
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) An Instruction Set Architecture for Machine Learning(CAS, China, Yunji Chen)
   - Citing: TABLA
+
+### 2020 ASPLOS
+
+- <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" /> FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System(Peking University, Yun Liang)
+- https://github.com/KnowingNothing/FlexTensor
+- <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Prague High-Performance Heterogeneity-Aware Asynchronous Decentralized Training(USC)
+- <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" />Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators(Standard University, Mingyu Gao)
 
 ### 2019 ASPLOS
 
@@ -26,7 +34,6 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
   - Citing: TABLA
 - ![#f03c15](./README.assets/000000-1586508058898.png) FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture(Yu Ji, Youhui Zhang, Yuan Xie, Tsinghua University, UCSB)
 
-  
 
 ### 2019 ISCA
 
@@ -45,7 +52,6 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 - Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network(ACT lab)
 
-  
 
 ### 2017 MICRO
 
@@ -78,6 +84,7 @@ This is a collection of papers on other important topics related to neural netwo
 ### Tutorial & Survey
 
 - [CSE 240D: Accelerator Design for Deep Learning (Winter 2019)](https://hadiclass.github.io/cse240d-wi19/schedule.html) (UCSD)
+- [CSE 599W: SysML](http://dlsys.cs.washington.edu/) (UW)
 
 ### Lab & Prof.
 
