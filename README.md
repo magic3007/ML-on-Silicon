@@ -81,7 +81,9 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
    -  Citing: PRIME, TABLA, ISAAC
 
-   
+## Toolkit
+
+- [hlslib](https://github.com/definelicht/hlslib): A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life.
 
 ## Important Issues
 
@@ -95,3 +97,4 @@ This is a collection of papers on other important topics related to neural netwo
 ### Lab & Prof.
 
 - [Hadi Esmaeilzadeh](http://cseweb.ucsd.edu/~hadi/). ACT Lab, Georgia Institute of Technology, UCSD
+
