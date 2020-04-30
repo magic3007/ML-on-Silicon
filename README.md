@@ -15,6 +15,8 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 - <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" /> Compiler
 - <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Distributed Machine Learning
 
+- <img src="https://placehold.it/15/ece5b8/000000?text=+" alt="#ece5b8" /> Homomorphic Computing
+
 ### 2020 Preprints
 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) An Instruction Set Architecture for Machine Learning(CAS, China, Yunji Chen)
@@ -23,9 +25,9 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 ### 2020 ASPLOS
 
 - <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" /> FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System(Peking University, Yun Liang)
-- https://github.com/KnowingNothing/FlexTensor
+    - source code: https://github.com/KnowingNothing/FlexTensor
 - <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Prague High-Performance Heterogeneity-Aware Asynchronous Decentralized Training(USC)
-- <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" />Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators(Standard University, Mingyu Gao)
+- <img src="https://placehold.it/15/af62ff/000000?text=+" alt="#af62ff" /> Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators(Standard University, Mingyu Gao)
 
 ### 2019 ASPLOS
 
@@ -34,6 +36,10 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
   - Citing: TABLA
 - ![#f03c15](./README.assets/000000-1586508058898.png) FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture(Yu Ji, Youhui Zhang, Yuan Xie, Tsinghua University, UCSB)
 
+### 2019 HPCA
+
+- <img src="https://placehold.it/15/ece5b8/000000?text=+" alt="#ece5b8" /> FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data
+  - source code: https://github.com/KULeuven-COSIC/HEAT
 
 ### 2019 ISCA
 
