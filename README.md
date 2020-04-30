@@ -83,7 +83,8 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 ## Toolkit
 
-- [hlslib](https://github.com/definelicht/hlslib): A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life.
+- **hlslib**: A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life.
+    - source code: https://github.com/definelicht/hlslib
 
 ## Important Issues
 
