@@ -48,6 +48,8 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 ### 2018 ASPLOS
 
 - ![#f03c15](./README.assets/000000-1586508058898.png) Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler(Yu Ji, Youhui Zhang, Yuan Xie, Tsinghua University, UCSB)
+  - *transform a computation graph into hardware execution model that only consists of core-op, including max-pooling, convolution & quantization*
+  - See more info mapping & scheduling strategy in <u>TrueNorth</u>.
 
 ### 2018 FCCM
 
@@ -81,7 +83,11 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
    -  Citing: PRIME, TABLA, ISAAC
 
-## Toolkit
+## How to Start Up Your Experiments?
+
+To conduct a experiment, datasets, toolchains, hardware configuration, evaluation statistics and etc. should be taken into consideration. This collection is hosted on [*Google Sheet*](https://docs.google.com/spreadsheets/d/1O-a3oIsR5ElIl7xz6YzjLmoaF0d9hzIYFvrWodcBTWs/edit?usp=sharing) for the convenience of editing. Also, some toolkits may help improve the quality of life! 🚀 
+
+### Toolkits
 
 - **hlslib**: A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life.
     - source code: https://github.com/definelicht/hlslib
@@ -94,6 +100,11 @@ This is a collection of papers on other important topics related to neural netwo
 
 - [CSE 240D: Accelerator Design for Deep Learning (Winter 2019)](https://hadiclass.github.io/cse240d-wi19/schedule.html) (UCSD)
 - [CSE 599W: SysML](http://dlsys.cs.washington.edu/) (UW)
+- [AI Computing Systems by *Yunji Chen*](http://novel.ict.ac.cn/aics/)
+
+###  Forum
+
+- [Cambricon Forum](http://forum.cambricon.com/list-1-1.html)
 
 ### Lab & Prof.
 
